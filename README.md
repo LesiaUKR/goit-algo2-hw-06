@@ -1,4 +1,4 @@
-# HW-6 | 
+# HW-6 | Fundamentals of Parallel Computing and the MapReduce Model
 
 **Introduction**:
 
